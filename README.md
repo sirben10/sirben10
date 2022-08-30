@@ -17,8 +17,8 @@
 
  <br/>
  
- <div align="right" margin-top="0px">
- <a href="https://app.daily.dev/sirben"><img src="https://api.daily.dev/devcards/1a26cf4ebe7f4f31aa337eef087d99c0.png?r=9fo" width="400" alt="SirBen's Dev Card"/></a>
+ <div align="center" margin-top="0px">
+<!--  <a href="https://app.daily.dev/sirben"><img src="https://api.daily.dev/devcards/1a26cf4ebe7f4f31aa337eef087d99c0.png?r=9fo" width="400" alt="SirBen's Dev Card"/></a> -->
 
 
 <br/>
