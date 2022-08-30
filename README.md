@@ -17,6 +17,14 @@
 
  <br/>
  
+ <div align="left" margin-top="0px">
+ <a href="https://app.daily.dev/sirben"><img src="https://api.daily.dev/devcards/91c2e67a428a47a6bfef31f57c9a28a1.png?r=cxo" margin-top="5px" width="400" height="" alt="Uyohoini Blankson's Dev Card"/></a>
+
+
+<br/>
+<br/>
+<div>
+ 
    <a href="https://github.com/sirben10/github-readme-stats"><img alt="Ubong Jacob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sirben10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" /></a>
     
 <br/>
