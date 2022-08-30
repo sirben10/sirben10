@@ -17,8 +17,8 @@
 
  <br/>
  
- <div align="left" margin-top="0px">
- <a href="https://app.daily.dev/sirben"><img src="https://api.daily.dev/devcards/91c2e67a428a47a6bfef31f57c9a28a1.png?r=cxo" margin-top="5px" width="400" height="" alt="Uyohoini Blankson's Dev Card"/></a>
+ <div align="right" margin-top="0px">
+ <a href="https://app.daily.dev/sirben"><img src="https://api.daily.dev/devcards/1a26cf4ebe7f4f31aa337eef087d99c0.png?r=9fo" width="400" alt="SirBen's Dev Card"/></a>
 
 
 <br/>
