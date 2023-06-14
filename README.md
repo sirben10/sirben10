@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other PHP, VueJs, Java GO developers.
 - 😶 I'm looking for help with ... getting gigs.
 - 💬 Ask me about ... Anything.
-- 🥅 2022Goals: Become a full stack web application developer.
+- 🥅 2023 Goals: Become a full stack web application developer.
 - ⚡ Social Organization : Lions Club International.
 
 <p align="center"> 
